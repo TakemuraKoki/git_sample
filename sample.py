@@ -1,8 +1,9 @@
 def main():
    a = 5
    b = 3
-   c = a + b
-   print (c)
+   c = 2
+   ans = a + b + c
+   print (ans)
 
 if __name__ == "__main__":
     main()
